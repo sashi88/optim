@@ -1,0 +1,34 @@
+install git --> $ apt-get install git
+
+add username and emal --> #Setup your name with GitHub
+			git config --global user.name "Your Name"
+			#Setup your email address with GitHub
+			git config --global user.email 				"your@emailaddress.com"
+
+			[http://linuxterminal.org/how-to-upload-your-repo-to-github/]
+
+
+add repository reference into
+local workspace  ------------->  $git clone  https://github.com/sashi88/optim
+
+
+initialize the project --- > $ git init
+if not works --------------> $git config --global push.default matching
+
+
+
+commands
+
+$git init
+$git add <directory name>
+$git commit -m "commit message"
+$git status
+$git push
+
+
+my account details
+
+username -- > sashi88
+passwd -----> welcome#1
+
+url --------> https://github.com/sashi88/optim
